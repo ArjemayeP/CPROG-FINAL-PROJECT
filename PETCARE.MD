@@ -1,0 +1,1 @@
+PetCare is a smart, easy-to-use application designed to help pet owners manage every aspect of their pet’s health and well-being. From daily feeding schedules and medication reminders to vet appointments, grooming logs, and vaccination tracking, PetCare keeps everything organized in one place.
